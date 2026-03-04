@@ -12,6 +12,10 @@
     border: 1px solid black;
   background-color: lightblue;
 }
+body {
+  padding: 1em;
+  gap: 1rem;
+}
 .flex-contaner {
   display: flex;
 }
