@@ -42,11 +42,11 @@ Fork the repository to get the assets, and to be able to submit your work.
 - [x] The `#body` is a **black**(#000000) bordered element with `lightblue` background
 - [x] The `#header` and `#body` are separated by 1 unit of root element font size
 - [ ] The `#header` has height equal to 10 units of the viewport, while the height of `#body` is calculated dynamically to span the remaining viewport height
-- [ ] The `.row` is a **blue**(#0000FF) bordered element with padding equal to its parent container font size
+- [x] The `.row` is a **blue**(#0000FF) bordered element with padding equal to its parent container font size
 - [x] The `.col` elements are **red**(#FF0000) bordered elements with `antiquewhite` background
   - [x] The `.col` has 1 unit padding of its parent font-size
-  - [ ] `#col-1` is 30 percentage of its parent horizontally, while `#col-2` is 70 percent
-  - [ ] Both these elements are next to one another in the same line and their width is dynamically computed
+  - [x] `#col-1` is 30 percentage of its parent horizontally, while `#col-2` is 70 percent
+  - [x] Both these elements are next to one another in the same line and their width is dynamically computed
   - [x] The `#col-1` has 4 nested elements, while `#col-2` has 6
 
 > [!TIP]
