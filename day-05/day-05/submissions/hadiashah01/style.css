@@ -24,8 +24,10 @@ body {
 }
 .row {
 
+  padding: 1em;
   border: 1px solid #0000ff;
 
+  width: 100%;
 }
 .col {
   background-color: antiquewhite;
@@ -35,6 +37,7 @@ body {
 }
 #col-1 {
   width: 30%;
+  margin-top: 105px;
 }
 #col-2 {
   width: 70%;
