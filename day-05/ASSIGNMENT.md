@@ -37,17 +37,17 @@ Fork the repository to get the assets, and to be able to submit your work.
 
 - [x] An HTML file linked to a custom external CSS file
 - [x] Borders are of 1 pixel width and solid style
-- [ ] The `body` element has padding equal to one unit of its font size
+- [x] The `body` element has padding equal to one unit of its font size
 - [x] The `#header` is a **black**(#000000) bordered element with `lightgray` background
 - [x] The `#body` is a **black**(#000000) bordered element with `lightblue` background
 - [x] The `#header` and `#body` are separated by 1 unit of root element font size
 - [ ] The `#header` has height equal to 10 units of the viewport, while the height of `#body` is calculated dynamically to span the remaining viewport height
 - [ ] The `.row` is a **blue**(#0000FF) bordered element with padding equal to its parent container font size
 - [x] The `.col` elements are **red**(#FF0000) bordered elements with `antiquewhite` background
-  - [ ] The `.col` has 1 unit padding of its parent font-size
+  - [x] The `.col` has 1 unit padding of its parent font-size
   - [ ] `#col-1` is 30 percentage of its parent horizontally, while `#col-2` is 70 percent
   - [ ] Both these elements are next to one another in the same line and their width is dynamically computed
-  - [ ] The `#col-1` has 4 nested elements, while `#col-2` has 6
+  - [x] The `#col-1` has 4 nested elements, while `#col-2` has 6
 
 > [!TIP]
 > `calc()` can be used with multiple and different CSS units to compute values.
