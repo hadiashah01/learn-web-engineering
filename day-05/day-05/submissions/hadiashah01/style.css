@@ -9,8 +9,14 @@
   border: 1px solid black;
 }
 #body {
-  border: 1px solid black;
+    border: 1px solid black;
   background-color: lightblue;
+}
+.flex-contaner {
+  display: flex;
+}
+.flex--column {
+  flex-direction: column;
 }
 .row {
 
