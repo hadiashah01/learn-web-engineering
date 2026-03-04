@@ -35,7 +35,7 @@ Fork the repository to get the assets, and to be able to submit your work.
 > [!NOTE]
 > Make sure you tick the checkboxes for reference.
 
-- [ ] An HTML file linked to a custom external CSS file
+- [x] An HTML file linked to a custom external CSS file
 - [ ] Borders are of 1 pixel width and solid style
 - [ ] The `body` element has padding equal to one unit of its font size
 - [ ] The `#header` is a **black**(#000000) bordered element with `lightgray` background
