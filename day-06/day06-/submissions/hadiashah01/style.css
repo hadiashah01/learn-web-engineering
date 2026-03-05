@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing:border-box;
 }
+
+.border {
+    border: 1px solid black;
+}
+
+.border--red {
+    border: 1px solid red;
+}
+
+.border--green {
+    border: 1px solid green;
+}
+
+.border--blue {
+    border: 1px solid blue;
+}
+
