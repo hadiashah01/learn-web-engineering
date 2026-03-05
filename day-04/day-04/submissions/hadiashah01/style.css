@@ -28,4 +28,6 @@ p {
 span {
     border: 1px solid red;
     display: block;
+    margin: 5px;
+    padding: 5px;
 }
