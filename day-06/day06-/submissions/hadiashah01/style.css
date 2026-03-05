@@ -31,3 +31,13 @@
 .card__title,.card__description{
     padding: 0.25em 1em;
 }
+.cards {
+  margin: 20px;
+}
+.last__cards {
+  margin-top: 1rem;
+}
+.card__content>.card__icon {
+  height: 48px;
+  width: 48px;
+}
