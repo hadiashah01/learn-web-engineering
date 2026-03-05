@@ -1,26 +1,33 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .border {
-    border: 1px solid black;
+  border: 1px solid black;
 }
 
 .border--red {
-    border: 1px solid red;
+  border: 1px solid red;
 }
 
 .border--green {
-    border: 1px solid green;
+  border: 1px solid green;
 }
 
 .border--blue {
-    border: 1px solid blue;
+  border: 1px solid blue;
 }
 
 .card {
-    width: 300px;
+  width: 300px;
+}
+.cards,
+.card {
+    padding: 1em;
 }
 
+.card__title,.card__description{
+    padding: 0.25em 1em;
+}
