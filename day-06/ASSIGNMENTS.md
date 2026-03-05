@@ -33,8 +33,8 @@ Fork the repository to get the assets, and to be able to submit your work.
 > [!NOTE]
 > Make sure you tick the checkboxes for reference.
 
-- [ ] An HTML file linked to a custom external CSS file
-- [ ] Use BEM naming: `cards`, `card`, `card__title`, `card__description`, and `card__icon`
+- [x] An HTML file linked to a custom external CSS file
+- [x] Use BEM naming: `cards`, `card`, `card__title`, `card__description`, and `card__icon`
 - [ ] Default borders are `1px solid black`
 - [ ] Every `.card` is of 300 pixel width
 - [ ] Create BEM modifier classes for border colors: red, green, and blue
