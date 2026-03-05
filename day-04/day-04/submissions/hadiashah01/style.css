@@ -24,3 +24,8 @@ p {
 .box--extra {
   width: 400px;
 }
+
+span {
+    border: 1px solid red;
+    display: block;
+}
