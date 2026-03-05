@@ -36,6 +36,7 @@ body {
 
   padding: 1em;
   height: fit-content;
+  padding: 0;
   border: 1px solid #ff0000;
 }
 #col-1 {
