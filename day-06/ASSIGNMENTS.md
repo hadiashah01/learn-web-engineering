@@ -35,9 +35,9 @@ Fork the repository to get the assets, and to be able to submit your work.
 
 - [x] An HTML file linked to a custom external CSS file
 - [x] Use BEM naming: `cards`, `card`, `card__title`, `card__description`, and `card__icon`
-- [ ] Default borders are `1px solid black`
-- [ ] Every `.card` is of 300 pixel width
-- [ ] Create BEM modifier classes for border colors: red, green, and blue
+- [x] Default borders are `1px solid black`
+- [x] Every `.card` is of 300 pixel width
+- [x] Create BEM modifier classes for border colors: red, green, and blue
 - [ ] `.cards` and `.card` have `1em` padding
 - [ ] `.card__title` and `.card__description` have `0.25em 1em` padding
 - [ ] In the first `.cards` container, the first `.card` contains two green boxes
