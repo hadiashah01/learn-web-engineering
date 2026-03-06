@@ -41,3 +41,10 @@
   height: 48px;
   width: 48px;
 }
+.flexbox {
+  display: flex;
+  gap: 2px;
+}
+.flexbox--column{
+  flex-direction: column;
+}
