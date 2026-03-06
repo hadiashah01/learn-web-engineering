@@ -37,3 +37,10 @@
 .card__value {
  height: 2em;
 }
+.card__icon {
+    height: 32px;
+    width: 32px;
+}
+body {
+    font-family: monospace;
+}
