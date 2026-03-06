@@ -101,11 +101,11 @@ Each card should have:
 - [x] An HTML file linked to a custom external CSS file
 - [x] Use utility classes: `container`, `container--column`, `card`, `metrics`, `details`, `border`, `border--red`, `border--green`, `border--blue`
 - [x] Reset default styles: `box-sizing: border-box`, `margin: 0`, `padding: 0`
-- [ ] Use `monospace` font family for body
+- [x] Use `monospace` font family for body
 - [ ] **Metrics section**: Three cards displayed in a single row with `gap` property
-  - [ ] Each card is `300px` wide
-  - [ ] Cards contain title, value, and icon placeholder
-  - [ ] Title is ~1.25em, value is ~2em
+  - [x] Each card is `300px` wide
+  - [x] Cards contain title, value, and icon placeholder
+  - [x] Title is ~1.25em, value is ~2em
   - [ ] Icons are `32x32px`
 - [ ] **Details section**: Five cards displayed with flex wrapping
   - [ ] Each card contains a heading and description
