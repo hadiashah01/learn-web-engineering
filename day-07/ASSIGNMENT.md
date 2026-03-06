@@ -98,9 +98,9 @@ Each card should have:
 
 ## Deliverables Checklist
 
-- [ ] An HTML file linked to a custom external CSS file
-- [ ] Use utility classes: `container`, `container--column`, `card`, `metrics`, `details`, `border`, `border--red`, `border--green`, `border--blue`
-- [ ] Reset default styles: `box-sizing: border-box`, `margin: 0`, `padding: 0`
+- [x] An HTML file linked to a custom external CSS file
+- [x] Use utility classes: `container`, `container--column`, `card`, `metrics`, `details`, `border`, `border--red`, `border--green`, `border--blue`
+- [x] Reset default styles: `box-sizing: border-box`, `margin: 0`, `padding: 0`
 - [ ] Use `monospace` font family for body
 - [ ] **Metrics section**: Three cards displayed in a single row with `gap` property
   - [ ] Each card is `300px` wide
