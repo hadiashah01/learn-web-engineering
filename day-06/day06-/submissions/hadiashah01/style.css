@@ -44,7 +44,11 @@
 .flexbox {
   display: flex;
   gap: 2px;
+  flex-wrap: wrap;
 }
 .flexbox--column{
   flex-direction: column;
+}
+.card__content:first-child {
+  flex-grow: 6;
 }
