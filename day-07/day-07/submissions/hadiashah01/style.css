@@ -30,6 +30,7 @@
 }
 .card {
     width: 300px;
+    background-color: antiquewhite;
 }
 .card__title {
  height: 1.25em;
@@ -43,4 +44,7 @@
 }
 body {
     font-family: monospace;
+}
+.metrics, .details {
+    background-color: aliceblue;
 }
