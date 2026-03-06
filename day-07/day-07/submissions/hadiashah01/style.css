@@ -28,3 +28,12 @@
 .container--column{
   flex-direction: column;
 }
+.card {
+    width: 300px;
+}
+.card__title {
+ height: 1.25em;
+}
+.card__value {
+ height: 2em;
+}
