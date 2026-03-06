@@ -102,14 +102,14 @@ Each card should have:
 - [x] Use utility classes: `container`, `container--column`, `card`, `metrics`, `details`, `border`, `border--red`, `border--green`, `border--blue`
 - [x] Reset default styles: `box-sizing: border-box`, `margin: 0`, `padding: 0`
 - [x] Use `monospace` font family for body
-- [ ] **Metrics section**: Three cards displayed in a single row with `gap` property
+- [x] **Metrics section**: Three cards displayed in a single row with `gap` property
   - [x] Each card is `300px` wide
   - [x] Cards contain title, value, and icon placeholder
   - [x] Title is ~1.25em, value is ~2em
-  - [ ] Icons are `32x32px`
+  - [x] Icons are `32x32px`
 - [ ] **Details section**: Five cards displayed with flex wrapping
-  - [ ] Each card contains a heading and description
-  - [ ] Cards wrap to multiple rows as needed
+  - [x] Each card contains a heading and description
+  - [x] Cards wrap to multiple rows as needed
 - [ ] Background colors: `aliceblue` for sections, `antiquewhite` for cards
 - [ ] Proper padding: `1em` for containers and cards
 - [ ] Flexbox is used for all layout (no floats, absolute positioning, or CSS Grid)
