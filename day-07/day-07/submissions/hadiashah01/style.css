@@ -52,3 +52,7 @@ body {
 .card, .metrics, .details {
     padding: 1em;
 }
+.wrapper {
+    gap: 10px;
+    margin: 10px;
+}
