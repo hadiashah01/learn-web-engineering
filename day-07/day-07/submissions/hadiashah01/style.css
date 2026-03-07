@@ -22,11 +22,12 @@
 }
 .container {
   display: flex;
-  gap: 2px;
+  gap: 8px;
   flex-wrap: wrap;
 }
 .container--column{
   flex-direction: column;
+  gap: 0;
 }
 .card {
     width: 300px;
