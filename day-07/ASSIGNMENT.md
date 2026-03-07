@@ -107,12 +107,12 @@ Each card should have:
   - [x] Cards contain title, value, and icon placeholder
   - [x] Title is ~1.25em, value is ~2em
   - [x] Icons are `32x32px`
-- [ ] **Details section**: Five cards displayed with flex wrapping
+- [x] **Details section**: Five cards displayed with flex wrapping
   - [x] Each card contains a heading and description
   - [x] Cards wrap to multiple rows as needed
-- [ ] Background colors: `aliceblue` for sections, `antiquewhite` for cards
-- [ ] Proper padding: `1em` for containers and cards
-- [ ] Flexbox is used for all layout (no floats, absolute positioning, or CSS Grid)
+- [x] Background colors: `aliceblue` for sections, `antiquewhite` for cards
+- [x] Proper padding: `1em` for containers and cards
+- [x] Flexbox is used for all layout (no floats, absolute positioning, or CSS Grid)
 
 ## Resources
 
