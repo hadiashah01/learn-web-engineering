@@ -33,10 +33,10 @@
     background-color: antiquewhite;
 }
 .card__title {
- height: 1.25em;
+ font-size: 1.25em;
 }
 .card__value {
- height: 2em;
+ font-size: 2em;
 }
 .card__icon {
     height: 32px;
@@ -47,4 +47,7 @@ body {
 }
 .metrics, .details {
     background-color: aliceblue;
+}
+.card, .metrics, .details {
+    padding: 1em;
 }
