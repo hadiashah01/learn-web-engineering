@@ -66,3 +66,17 @@ main .cards:first-child {
 .first__card__item  {
       flex: 4;
 }
+.card__item{
+    gap:0.1em;
+}
+.last__card__item{
+    align-items: flex-end;
+}
+.last__card__item :last-child{
+    height:60%;
+    width: 100%;  
+}
+.last__card__item :first-child{
+    height:40%; 
+    width: 60%;
+}
