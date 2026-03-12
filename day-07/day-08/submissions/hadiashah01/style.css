@@ -18,11 +18,13 @@
 
 .flex--row{
     display: flex ;
+    gap: .2em;
 
 }
 .flex--column{
     display: flex ;
     flex-direction: column;
+    gap: .2em;
 }
 header{
     padding:.2em;
