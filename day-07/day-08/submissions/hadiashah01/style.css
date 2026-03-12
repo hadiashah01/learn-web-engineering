@@ -30,12 +30,13 @@ header{
     padding:.2em;
     height: 20vh;
     margin: 1em;
+    margin-bottom: .2em;
 }
 .header__items {
     flex: 1;
 }
 nav{
-    width: 30%;
+    width: 20%;
     padding:.2em;
      height: 70vh;
      margin-left: 1em;
@@ -45,7 +46,7 @@ nav{
      flex:1
 }
 main{
-    width: 70%;
+    width: 80%;
     padding:.2em;
     height: 70vh;
     margin-right: 1em;
