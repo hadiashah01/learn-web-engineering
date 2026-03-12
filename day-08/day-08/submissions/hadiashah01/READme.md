@@ -11,7 +11,7 @@ The page includes a **header**, **sidebar navigation**, and a **main content are
 
 ## Layout Preview
 
-![Flexbox Layout](./hadiashah01/day-08-submissions.png)
+![Flexbox Layout](./day-08-submissions.png)
 
 
 
@@ -26,9 +26,7 @@ day-08/submissions/hadiashah01/
 └── README.md
 ```
 
-
-
-## Flexbox Concepts Used        
+## Flexbox Concepts Used
 
 - `display: flex`
 - `flex-direction`
@@ -62,6 +60,11 @@ Flexbox utility classes used in the layout:
 }
 ```
 
+## Files
+
+- **HTML:** [index.html](./index.html) – Main dashboard structure  
+- **CSS:** [style.css](./style.css) – Flexbox layout, card styling, and utility classes
+
 ## Key Learning
 
 - Building layouts using **Flexbox**
@@ -74,11 +77,15 @@ Flexbox utility classes used in the layout:
 
 ## Resources
 
-- **CSS Tricks – Flexbox Guide**  
+- **CSS Tricks – Flexbox Guide** 
+
   https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-- **MDN Flexbox Documentation**  
+- **MDN Flexbox Documentation** 
+
   https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
 
 - **Flexbox Froggy**  
-  https://flexboxfroggy.com/
+  https://flexboxfroggy.com
+  
+
