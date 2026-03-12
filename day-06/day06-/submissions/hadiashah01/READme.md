@@ -1,4 +1,4 @@
-# Assignment 01: Cards Layout with BEM
+# Cards Layout with BEM
 
 ## Objective
 
