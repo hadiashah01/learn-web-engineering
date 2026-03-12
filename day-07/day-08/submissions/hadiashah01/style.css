@@ -3,5 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+.border {
+    border: 2px solid black;
+}
+.border--blue {
+    border: 2px solid black;
+}
+.border--red {
+    border: 2px solid black;
+}
+.border--green {
+    border: 2px solid black;
+}
+
 
 
