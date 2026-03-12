@@ -57,3 +57,12 @@ main{
 div{
      padding:.2em;
 }
+main .cards:last-child{
+    margin-bottom:2em;
+}
+main .cards:first-child {
+      flex: .5;
+}
+.first__card__item  {
+      flex: 4;
+}
