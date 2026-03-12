@@ -90,22 +90,22 @@ The layout should demonstrate:
 
 ## Deliverables Checklist
 
-- [ ] An HTML file linked to a custom external CSS file
-- [ ] Use utility classes: `.container`, `.flex`, `.flex--row`, `.flex--column`
-- [ ] Reset default styles: `box-sizing: border-box`, `margin: 0`, `padding: 0`
-- [ ] All layouts created using flexbox (no floats or absolute positioning)
-- [ ] **Header/Navigation section**:
+- [x] An HTML file linked to a custom external CSS file
+- [x] Use utility classes: `.container`, `.flex`, `.flex--row`, `.flex--column`
+- [x] Reset default styles: `box-sizing: border-box`, `margin: 0`, `padding: 0`
+- [x] All layouts created using flexbox (no floats or absolute positioning)
+- [x] **Header/Navigation section**:
   - [ ] Logo or brand name aligned to the left
-  - [ ] Navigation items with proper spacing
-  - [ ] Flex container with `justify-content: space-between`
-- [ ] **Content sections**: Multiple flex containers demonstrating different patterns
-  - [ ] Horizontal flex rows
-  - [ ] Vertical flex columns
-  - [ ] Nested flex containers
-  - [ ] Proper use of `gap` for spacing
-- [ ] **Responsive behavior**: Elements wrap or adjust based on content
-- [ ] Proper padding and margins throughout
-- [ ] Layout matches the provided screenshot
+  - [x] Navigation items with proper spacing
+  - [x] Flex container with `justify-content: space-between`
+- [x] **Content sections**: Multiple flex containers demonstrating different patterns
+  - [x] Horizontal flex rows
+  - [x] Vertical flex columns
+  - [x] Nested flex containers
+  - [x] Proper use of `gap` for spacing
+- [x] **Responsive behavior**: Elements wrap or adjust based on content
+- [x] Proper padding and margins throughout
+- [x] Layout matches the provided screenshot
 
 ## Resources
 
