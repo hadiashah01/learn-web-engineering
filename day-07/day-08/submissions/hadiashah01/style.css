@@ -25,19 +25,26 @@
     flex-direction: column;
 }
 header{
-    padding:1em;
+    padding:.2em;
     height: 20vh;
     margin: 1em;
 }
+.header__items {
+    flex: 1;
+}
 nav{
     width: 30%;
-    padding: 1em;
+    padding:.2em;
      height: 70vh;
      margin-left: 1em;
 }
+
+.nav__items,.cards,.card__item,.child{
+     flex:1
+}
 main{
     width: 70%;
-    padding: 1em;
+    padding:.2em;
     height: 70vh;
     margin-right: 1em;
 }
@@ -45,5 +52,5 @@ main{
     padding: 0;
 }
 div{
-     padding: 1em;
+     padding:.2em;
 }
