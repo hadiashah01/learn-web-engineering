@@ -25,3 +25,60 @@ day-08/submissions/hadiashah01/
 ├── style.css
 └── README.md
 ```
+
+
+
+## Flexbox Concepts Used        
+
+- `display: flex`
+- `flex-direction`
+- `justify-content`
+- `align-items`
+- `gap`
+- `flex-grow`
+- nested flex containers
+
+
+
+## Utility Classes
+
+Flexbox utility classes used in the layout:  
+- `.flex--row`      
+- `.flex--column`  
+- `.border`  
+- `.border--red`  
+- `.border--blue`  
+- `.border--green`
+
+
+
+## CSS Reset
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```
+
+## Key Learning
+
+- Building layouts using **Flexbox**
+- Creating **nested flex containers**
+- Controlling layout sizing using `flex`
+- Managing spacing using `gap`
+- Using reusable **utility classes**
+
+---
+
+## Resources
+
+- **CSS Tricks – Flexbox Guide**  
+  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+- **MDN Flexbox Documentation**  
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+
+- **Flexbox Froggy**  
+  https://flexboxfroggy.com/
