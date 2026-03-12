@@ -7,13 +7,13 @@
     border: 2px solid black;
 }
 .border--blue {
-    border: 2px solid black;
+    border: 2px solid blue;
 }
 .border--red {
-    border: 2px solid black;
+    border: 2px solid red;
 }
 .border--green {
-    border: 2px solid black;
+    border: 2px solid green;
 }
 
 .flex--row{
@@ -41,4 +41,9 @@ main{
     height: 70vh;
     margin-right: 1em;
 }
-
+.content{
+    padding: 0;
+}
+div{
+     padding: 1em;
+}
