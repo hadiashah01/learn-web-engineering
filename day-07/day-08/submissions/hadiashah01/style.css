@@ -80,7 +80,7 @@ main .cards:first-child {
     height:40%; 
     width: 50%;
 }
-.first__child-parent {
+.card__item--primary {
     flex: 2;
 }
 .first__nav__item{
