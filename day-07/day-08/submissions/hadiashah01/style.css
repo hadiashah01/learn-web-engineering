@@ -16,5 +16,12 @@
     border: 2px solid black;
 }
 
+.flex--row{
+    display: flex ;
 
+}
+.flex--column{
+    display: flex ;
+    flex-direction: column;
+}
 
